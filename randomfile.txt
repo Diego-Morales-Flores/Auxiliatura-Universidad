@@ -1,0 +1,1 @@
+bbbbbbbbbbbb False Nro de As: 0  Nro de Bs: 12 False False resultado final=  True
