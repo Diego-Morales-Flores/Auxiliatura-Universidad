@@ -1,0 +1,13 @@
+2
+a
+b
+6
+q0,a,Z=q0-XZ
+q0,a,X=q0-XX
+q0,b,X=q0-
+q0,b,Z=q0-YZ
+q0,b,Y=q0-YY
+q0,a,Y=q0-
+1
+q0
+10
